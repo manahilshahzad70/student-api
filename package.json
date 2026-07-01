@@ -1,0 +1,12 @@
+{
+  "name": "student-api",
+  "version": "1.0.0",
+  "description": "Project 1: REST API Fundamentals - Student Records API (DecodeLabs Backend Training)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
